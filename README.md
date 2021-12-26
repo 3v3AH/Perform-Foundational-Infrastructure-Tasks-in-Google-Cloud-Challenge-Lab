@@ -1,5 +1,5 @@
 # Perform-Foundational-Infrastructure-Tasks-in-Google-Cloud-Challenge-Lab
-#############################################################################################################
+###########################################################################################################
 
 Task 1: Create a bucket
 
@@ -12,14 +12,14 @@ Choose where to store your data > Region: us-east1 > Continue
 Use default for the remaining
 
 Create
-##############################################################################################################
+###########################################################################################################
 
 Task 2: Create a Pub/Sub topic
 
 Navigation menu > Pub/Sub > Topics
 
 Create Topic > Name: Jooli > Create Topic
-##############################################################################################################
+###########################################################################################################
 
 Task 3: Create the thumbnail Cloud Function
 
@@ -40,7 +40,8 @@ Download the image from URL
 Navigation menu > Cloud Storage > Browser > Select your bucket > Upload files
 
 Refresh bucket
-################################################################################################################################################
+###########################################################################################################
+
 Task 4: Remove the previous cloud engineer
 
 Navigation menu > IAM & Admin > IAM
