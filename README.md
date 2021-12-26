@@ -1,5 +1,6 @@
 # Perform-Foundational-Infrastructure-Tasks-in-Google-Cloud-Challenge-Lab
 ###############################################################################################################################################
+
 Task 1: Create a bucket
 
 Navigation menu > Cloud Storage > Browser > Create Bucket
@@ -12,6 +13,7 @@ Use default for the remaining
 
 Create
 ###############################################################################################################################################
+
 Task 2: Create a Pub/Sub topic
 
 Navigation menu > Pub/Sub > Topics
@@ -24,7 +26,7 @@ Navigation menu > Cloud Functions > Create Function
 
 Use the following config:
 
-Name: CFJooli Region: us-east1 Trigger: Cloud Storage Event type: Finalize/Create Bucket: BROWSE > Select the qwiklabs bucket
+*Name: CFJooli *Region: us-east1 *Trigger: Cloud Storage Event *type: Finalize/Create *Bucket: BROWSE > Select the qwiklabs bucket
 
 Remaining default > Next
 
